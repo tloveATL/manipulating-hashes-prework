@@ -8,6 +8,4 @@ def second_challenge
 
   second_challenge.values
 
-  
-
 end
